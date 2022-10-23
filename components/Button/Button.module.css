@@ -1,0 +1,13 @@
+.button {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  all: unset;
+  cursor: pointer;
+}
+
+.transparentButton:hover {
+  background-color: #eaeaea;
+  border-radius: 5px;
+}
